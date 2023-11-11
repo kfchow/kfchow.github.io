@@ -16,3 +16,11 @@ h1 {
   width: 200px;
   padding: 10px;
 }
+a {
+  text-decoration: none;
+  color: #F0FFFF;
+}
+.assign img {
+  padding: 10px;
+  border: 2px dashed midnightblue;
+}
