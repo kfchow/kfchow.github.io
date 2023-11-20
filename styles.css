@@ -10,6 +10,12 @@ h1 {
   width: 100%;
   display: block;
 }
+h1:hover {
+  color: salmon;
+  text-align: center;
+  width: 100%;
+  display: block;
+}
 .assign {
   display: flex;  
   padding: 10px;
